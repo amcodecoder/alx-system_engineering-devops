@@ -1,0 +1,1 @@
+print cuttent working directory
